@@ -13,12 +13,12 @@ dumping ground for my plugins.
 
 install using vim-plug:
 
-`vim
+```vim
 call plug#begin()
 
 Plug 'flqwer/vimlets'
 
 call plug#end()
-`
+```
 
 and enjoy!
